@@ -14,7 +14,6 @@ with open('cross_references.csv', 'r') as file:
     data = list(csv_reader)
     for row in data[1:]:
         fromRef = row[0].strip()
-        # toRef = row[1].strip()
         book = fromRef.split('.')[0]
         if book not in books:
             books.append(book)

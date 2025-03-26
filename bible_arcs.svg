@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-110 -110 220 220">
+<path id="Genesis" d="M 100.00 0.00 A 100.00 100.00 0 0 1 95.27 30.38" stroke="hsl(0 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Exodus" d="M 95.27 30.38 A 100.00 100.00 0 0 1 84.06 54.16" stroke="hsl(90 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Leviticus" d="M 84.06 54.16 A 100.00 100.00 0 0 1 71.76 69.64" stroke="hsl(180 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Numbers" d="M 71.76 69.64 A 100.00 100.00 0 0 1 50.99 86.03" stroke="hsl(270 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Deuteronomy" d="M 50.99 86.03 A 100.00 100.00 0 0 1 30.15 95.35" stroke="hsl(360 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Joshua" d="M 30.15 95.35 A 100.00 100.00 0 0 1 15.36 98.81" stroke="hsl(450 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Judges" d="M 15.36 98.81 A 100.00 100.00 0 0 1 0.11 100.00" stroke="hsl(540 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Ruth" d="M 0.11 100.00 A 100.00 100.00 0 0 1 -1.96 99.98" stroke="hsl(630 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="1 Samuel" d="M -1.96 99.98 A 100.00 100.00 0 0 1 -21.99 97.55" stroke="hsl(720 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="2 Samuel" d="M -21.99 97.55 A 100.00 100.00 0 0 1 -37.82 92.57" stroke="hsl(810 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="1 Kings" d="M -37.82 92.57 A 100.00 100.00 0 0 1 -55.28 83.33" stroke="hsl(900 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="2 Kings" d="M -55.28 83.33 A 100.00 100.00 0 0 1 -70.00 71.41" stroke="hsl(990 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="1 Chronicles" d="M -70.00 71.41 A 100.00 100.00 0 0 1 -80.74 59.00" stroke="hsl(1080 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="2 Chronicles" d="M -80.74 59.00 A 100.00 100.00 0 0 1 -91.28 40.85" stroke="hsl(1170 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Ezra" d="M -91.28 40.85 A 100.00 100.00 0 0 1 -93.56 35.30" stroke="hsl(1260 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Nehemiah" d="M -93.56 35.30 A 100.00 100.00 0 0 1 -96.21 27.27" stroke="hsl(1350 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Esther" d="M -96.21 27.27 A 100.00 100.00 0 0 1 -97.35 22.87" stroke="hsl(1440 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Job" d="M -97.35 22.87 A 100.00 100.00 0 0 1 -98.96 14.39" stroke="hsl(1530 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Psalms" d="M -98.96 14.39 A 100.00 100.00 0 0 1 -98.00 -19.88" stroke="hsl(1620 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Proverbs" d="M -98.00 -19.88 A 100.00 100.00 0 0 1 -94.88 -31.59" stroke="hsl(1710 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Ecclesiastes" d="M -94.88 -31.59 A 100.00 100.00 0 0 1 -93.36 -35.83" stroke="hsl(1800 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Song of Solomon" d="M -93.36 -35.83 A 100.00 100.00 0 0 1 -92.57 -37.82" stroke="hsl(1890 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Isaiah" d="M -92.57 -37.82 A 100.00 100.00 0 0 1 -77.33 -63.40" stroke="hsl(1980 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Jeremiah" d="M -77.33 -63.40 A 100.00 100.00 0 0 1 -51.41 -85.77" stroke="hsl(2070 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Lamentations" d="M -51.41 -85.77 A 100.00 100.00 0 0 1 -49.03 -87.15" stroke="hsl(2160 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Ezekiel" d="M -49.03 -87.15 A 100.00 100.00 0 0 1 -19.33 -98.11" stroke="hsl(2250 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Daniel" d="M -19.33 -98.11 A 100.00 100.00 0 0 1 -10.08 -99.49" stroke="hsl(2340 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Hosea" d="M -10.08 -99.49 A 100.00 100.00 0 0 1 -5.92 -99.82" stroke="hsl(2430 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Joel" d="M -5.92 -99.82 A 100.00 100.00 0 0 1 -4.28 -99.91" stroke="hsl(2520 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Amos" d="M -4.28 -99.91 A 100.00 100.00 0 0 1 -0.88 -100.00" stroke="hsl(2610 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Obadiah" d="M -0.88 -100.00 A 100.00 100.00 0 0 1 -0.34 -100.00" stroke="hsl(2700 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Jonah" d="M -0.34 -100.00 A 100.00 100.00 0 0 1 0.72 -100.00" stroke="hsl(2790 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Micah" d="M 0.72 -100.00 A 100.00 100.00 0 0 1 3.27 -99.95" stroke="hsl(2880 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Nahum" d="M 3.27 -99.95 A 100.00 100.00 0 0 1 4.30 -99.91" stroke="hsl(2970 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Habakkuk" d="M 4.30 -99.91 A 100.00 100.00 0 0 1 5.49 -99.85" stroke="hsl(3060 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Zephaniah" d="M 5.49 -99.85 A 100.00 100.00 0 0 1 6.79 -99.77" stroke="hsl(3150 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Haggai" d="M 6.79 -99.77 A 100.00 100.00 0 0 1 7.70 -99.70" stroke="hsl(3240 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Zechariah" d="M 7.70 -99.70 A 100.00 100.00 0 0 1 12.87 -99.17" stroke="hsl(3330 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Malachi" d="M 12.87 -99.17 A 100.00 100.00 0 0 1 14.29 -98.97" stroke="hsl(3420 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Matthew" d="M 14.29 -98.97 A 100.00 100.00 0 0 1 32.42 -94.60" stroke="hsl(3510 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Mark" d="M 32.42 -94.60 A 100.00 100.00 0 0 1 43.57 -90.01" stroke="hsl(3600 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Luke" d="M 43.57 -90.01 A 100.00 100.00 0 0 1 61.12 -79.14" stroke="hsl(3690 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="John" d="M 61.12 -79.14 A 100.00 100.00 0 0 1 72.30 -69.08" stroke="hsl(3780 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Acts" d="M 72.30 -69.08 A 100.00 100.00 0 0 1 84.34 -53.72" stroke="hsl(3870 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Romans" d="M 84.34 -53.72 A 100.00 100.00 0 0 1 88.20 -47.13" stroke="hsl(3960 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="1 Corinthians" d="M 88.20 -47.13 A 100.00 100.00 0 0 1 91.53 -40.27" stroke="hsl(4050 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="2 Corinthians" d="M 91.53 -40.27 A 100.00 100.00 0 0 1 93.39 -35.76" stroke="hsl(4140 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Galatians" d="M 93.39 -35.76 A 100.00 100.00 0 0 1 94.25 -33.42" stroke="hsl(4230 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Ephesians" d="M 94.25 -33.42 A 100.00 100.00 0 0 1 95.04 -31.12" stroke="hsl(4320 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Philippians" d="M 95.04 -31.12 A 100.00 100.00 0 0 1 95.57 -29.44" stroke="hsl(4410 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Colossians" d="M 95.57 -29.44 A 100.00 100.00 0 0 1 96.03 -27.91" stroke="hsl(4500 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="1 Thessalonians" d="M 96.03 -27.91 A 100.00 100.00 0 0 1 96.43 -26.48" stroke="hsl(4590 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="2 Thessalonians" d="M 96.43 -26.48 A 100.00 100.00 0 0 1 96.64 -25.69" stroke="hsl(4680 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="1 Timothy" d="M 96.64 -25.69 A 100.00 100.00 0 0 1 97.09 -23.93" stroke="hsl(4770 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="2 Timothy" d="M 97.09 -23.93 A 100.00 100.00 0 0 1 97.41 -22.62" stroke="hsl(4860 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Titus" d="M 97.41 -22.62 A 100.00 100.00 0 0 1 97.57 -21.92" stroke="hsl(4950 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Philemon" d="M 97.57 -21.92 A 100.00 100.00 0 0 1 97.64 -21.58" stroke="hsl(5040 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Hebrews" d="M 97.64 -21.58 A 100.00 100.00 0 0 1 98.43 -17.66" stroke="hsl(5130 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="James" d="M 98.43 -17.66 A 100.00 100.00 0 0 1 98.74 -15.83" stroke="hsl(5220 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="1 Peter" d="M 98.74 -15.83 A 100.00 100.00 0 0 1 99.04 -13.85" stroke="hsl(5310 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="2 Peter" d="M 99.04 -13.85 A 100.00 100.00 0 0 1 99.20 -12.61" stroke="hsl(5400 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="1 John" d="M 99.20 -12.61 A 100.00 100.00 0 0 1 99.44 -10.59" stroke="hsl(5490 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="2 John" d="M 99.44 -10.59 A 100.00 100.00 0 0 1 99.46 -10.35" stroke="hsl(5580 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="3 John" d="M 99.46 -10.35 A 100.00 100.00 0 0 1 99.49 -10.12" stroke="hsl(5670 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Jude" d="M 99.49 -10.12 A 100.00 100.00 0 0 1 99.54 -9.63" stroke="hsl(5760 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+<path id="Revelation" d="M 99.54 -9.63 A 100.00 100.00 0 0 1 100.00 0.00" stroke="hsl(5850 , 100%, 50%)" stroke-width="2" fill="none" stroke-linecap="butt"/>
+
+</svg>

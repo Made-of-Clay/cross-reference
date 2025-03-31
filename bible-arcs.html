@@ -34,18 +34,18 @@
     <script type="module">
         const main = document.querySelector('main');
 
-        main.addEventListener('mouseover', event => {
-            console.log(event.target.tagName);
+        /** @param {Event} event */
+        function updateFocus(event) {
             if (event.target.tagName.toLowerCase() !== 'path') return;
-
+    
             /** @type {HTMLPathElement} */
             const path = event.target;
-            main.style.setProperty('--data-book', path.id);
-            main.style.setProperty('--data-chapters', path.getAttribute('data-chapters'));
             main.setAttribute('data-book', path.id);
             main.setAttribute('data-chapters', path.getAttribute('data-chapters'));
-        })
-        
+        }
+        main.addEventListener('mouseover', updateFocus);
+        main.addEventListener('touchstart', updateFocus);
+
         fetch('./bible_arcs.svg')
             .then(r => r.text())
             .then(svg => main.innerHTML = svg)

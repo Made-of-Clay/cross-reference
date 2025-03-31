@@ -2,7 +2,6 @@ export function exportSvg() {
     const svgXml = '<?xml version="1.0" encoding="UTF-8"?>';
     const svg = document.body.querySelector('svg');
     const doc = document.createDocumentFragment();
-    console.log(svg.cloneNode(true));
     doc.append(svg.cloneNode(true));
     doc.querySelector('svg').prepend(document.head.querySelector('style').cloneNode(true));
   
@@ -15,4 +14,3 @@ export function exportSvg() {
     link.download = 'graphic.svg';
     link.click();
 }
-  

@@ -18,7 +18,7 @@
         }
         main[data-book][data-chapters]::before {
             content: "Book: " attr(data-book) "\00000a Chapters: " attr(data-chapters);
-            color: white;
+            color: var(--color, white);
             display: flex;
             position: absolute;
             top: 0;
@@ -48,11 +48,11 @@
         function updateFocus(event) {
             if (event.target.tagName.toLowerCase() !== 'path') return;
     
-            console.log('event.type', event.type);
             /** @type {HTMLPathElement} */
             const path = event.target;
             main.setAttribute('data-book', path.id);
             main.setAttribute('data-chapters', path.getAttribute('data-chapters'));
+            main.style.setProperty('--color', path.getAttribute('stroke'));
         }
         main.addEventListener('mouseover', updateFocus);
         main.addEventListener('touchstart', updateFocus);

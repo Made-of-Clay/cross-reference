@@ -1,69 +1,69 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-110 -110 220 220">
-<path id="Genesis" d="M 100.00 0.00 A 100.00 100.00 0 0 1 96.53 26.12" stroke="#D32F2F" stroke-width="5" data-chapters="50" fill="none" stroke-linecap="butt"/>
-<path id="Exodus" d="M 96.53 26.12 A 100.00 100.00 0 0 1 88.90 45.79" stroke="#F4511E" stroke-width="5" data-chapters="40" fill="none" stroke-linecap="butt"/>
-<path id="Leviticus" d="M 88.90 45.79 A 100.00 100.00 0 0 1 81.49 57.96" stroke="#388E3C" stroke-width="5" data-chapters="27" fill="none" stroke-linecap="butt"/>
-<path id="Numbers" d="M 81.49 57.96 A 100.00 100.00 0 0 1 69.06 72.33" stroke="#00695C" stroke-width="5" data-chapters="36" fill="none" stroke-linecap="butt"/>
-<path id="Deuteronomy" d="M 69.06 72.33 A 100.00 100.00 0 0 1 55.02 83.50" stroke="#1976D2" stroke-width="5" data-chapters="34" fill="none" stroke-linecap="butt"/>
-<path id="Joshua" d="M 55.02 83.50 A 100.00 100.00 0 0 1 44.02 89.79" stroke="#842cb9" stroke-width="5" data-chapters="24" fill="none" stroke-linecap="butt"/>
-<path id="Judges" d="M 44.02 89.79 A 100.00 100.00 0 0 1 33.80 94.11" stroke="#25959b" stroke-width="5" data-chapters="21" fill="none" stroke-linecap="butt"/>
-<path id="Ruth" d="M 33.80 94.11 A 100.00 100.00 0 0 1 31.80 94.81" stroke="#D32F2F" stroke-width="5" data-chapters="4" fill="none" stroke-linecap="butt"/>
-<path id="1 Samuel" d="M 31.80 94.81 A 100.00 100.00 0 0 1 15.92 98.73" stroke="#F4511E" stroke-width="5" data-chapters="31" fill="none" stroke-linecap="butt"/>
-<path id="2 Samuel" d="M 15.92 98.73 A 100.00 100.00 0 0 1 3.30 99.95" stroke="#388E3C" stroke-width="5" data-chapters="24" fill="none" stroke-linecap="butt"/>
-<path id="1 Kings" d="M 3.30 99.95 A 100.00 100.00 0 0 1 -8.31 99.65" stroke="#00695C" stroke-width="5" data-chapters="22" fill="none" stroke-linecap="butt"/>
-<path id="2 Kings" d="M -8.31 99.65 A 100.00 100.00 0 0 1 -21.37 97.69" stroke="#1976D2" stroke-width="5" data-chapters="25" fill="none" stroke-linecap="butt"/>
-<path id="1 Chronicles" d="M -21.37 97.69 A 100.00 100.00 0 0 1 -36.03 93.28" stroke="#842cb9" stroke-width="5" data-chapters="29" fill="none" stroke-linecap="butt"/>
-<path id="2 Chronicles" d="M -36.03 93.28 A 100.00 100.00 0 0 1 -53.02 84.79" stroke="#25959b" stroke-width="5" data-chapters="36" fill="none" stroke-linecap="butt"/>
-<path id="Ezra" d="M -53.02 84.79 A 100.00 100.00 0 0 1 -57.42 81.87" stroke="#D32F2F" stroke-width="5" data-chapters="10" fill="none" stroke-linecap="butt"/>
-<path id="Nehemiah" d="M -57.42 81.87 A 100.00 100.00 0 0 1 -62.91 77.73" stroke="#F4511E" stroke-width="5" data-chapters="13" fill="none" stroke-linecap="butt"/>
-<path id="Esther" d="M -62.91 77.73 A 100.00 100.00 0 0 1 -66.93 74.30" stroke="#388E3C" stroke-width="5" data-chapters="10" fill="none" stroke-linecap="butt"/>
-<path id="Job" d="M -66.93 74.30 A 100.00 100.00 0 0 1 -81.64 57.75" stroke="#00695C" stroke-width="5" data-chapters="42" fill="none" stroke-linecap="butt"/>
-<path id="Psalms" d="M -81.64 57.75 A 100.00 100.00 0 0 1 -98.44 -17.61" stroke="#1976D2" stroke-width="5" data-chapters="150" fill="none" stroke-linecap="butt"/>
-<path id="Proverbs" d="M -98.44 -17.61 A 100.00 100.00 0 0 1 -94.25 -33.43" stroke="#842cb9" stroke-width="5" data-chapters="31" fill="none" stroke-linecap="butt"/>
-<path id="Ecclesiastes" d="M -94.25 -33.43 A 100.00 100.00 0 0 1 -91.94 -39.33" stroke="#25959b" stroke-width="5" data-chapters="12" fill="none" stroke-linecap="butt"/>
-<path id="Song of Solomon" d="M -91.94 -39.33 A 100.00 100.00 0 0 1 -90.19 -43.18" stroke="#D32F2F" stroke-width="5" data-chapters="8" fill="none" stroke-linecap="butt"/>
-<path id="Isaiah" d="M -90.19 -43.18 A 100.00 100.00 0 0 1 -70.01 -71.41" stroke="#F4511E" stroke-width="5" data-chapters="66" fill="none" stroke-linecap="butt"/>
-<path id="Jeremiah" d="M -70.01 -71.41 A 100.00 100.00 0 0 1 -48.00 -87.72" stroke="#388E3C" stroke-width="5" data-chapters="52" fill="none" stroke-linecap="butt"/>
-<path id="Lamentations" d="M -48.00 -87.72 A 100.00 100.00 0 0 1 -45.67 -88.96" stroke="#00695C" stroke-width="5" data-chapters="5" fill="none" stroke-linecap="butt"/>
-<path id="Ezekiel" d="M -45.67 -88.96 A 100.00 100.00 0 0 1 -21.88 -97.58" stroke="#1976D2" stroke-width="5" data-chapters="48" fill="none" stroke-linecap="butt"/>
-<path id="Daniel" d="M -21.88 -97.58 A 100.00 100.00 0 0 1 -15.66 -98.77" stroke="#842cb9" stroke-width="5" data-chapters="12" fill="none" stroke-linecap="butt"/>
-<path id="Hosea" d="M -15.66 -98.77 A 100.00 100.00 0 0 1 -8.31 -99.65" stroke="#25959b" stroke-width="5" data-chapters="14" fill="none" stroke-linecap="butt"/>
-<path id="Joel" d="M -8.31 -99.65 A 100.00 100.00 0 0 1 -6.73 -99.77" stroke="#D32F2F" stroke-width="5" data-chapters="3" fill="none" stroke-linecap="butt"/>
-<path id="Amos" d="M -6.73 -99.77 A 100.00 100.00 0 0 1 -1.98 -99.98" stroke="#F4511E" stroke-width="5" data-chapters="9" fill="none" stroke-linecap="butt"/>
-<path id="Obadiah" d="M -1.98 -99.98 A 100.00 100.00 0 0 1 -1.45 -99.99" stroke="#388E3C" stroke-width="5" data-chapters="1" fill="none" stroke-linecap="butt"/>
-<path id="Jonah" d="M -1.45 -99.99 A 100.00 100.00 0 0 1 0.66 -100.00" stroke="#00695C" stroke-width="5" data-chapters="4" fill="none" stroke-linecap="butt"/>
-<path id="Micah" d="M 0.66 -100.00 A 100.00 100.00 0 0 1 4.36 -99.90" stroke="#1976D2" stroke-width="5" data-chapters="7" fill="none" stroke-linecap="butt"/>
-<path id="Nahum" d="M 4.36 -99.90 A 100.00 100.00 0 0 1 5.94 -99.82" stroke="#842cb9" stroke-width="5" data-chapters="3" fill="none" stroke-linecap="butt"/>
-<path id="Habakkuk" d="M 5.94 -99.82 A 100.00 100.00 0 0 1 7.52 -99.72" stroke="#25959b" stroke-width="5" data-chapters="3" fill="none" stroke-linecap="butt"/>
-<path id="Zephaniah" d="M 7.52 -99.72 A 100.00 100.00 0 0 1 9.10 -99.58" stroke="#D32F2F" stroke-width="5" data-chapters="3" fill="none" stroke-linecap="butt"/>
-<path id="Haggai" d="M 9.10 -99.58 A 100.00 100.00 0 0 1 10.15 -99.48" stroke="#F4511E" stroke-width="5" data-chapters="2" fill="none" stroke-linecap="butt"/>
-<path id="Zechariah" d="M 10.15 -99.48 A 100.00 100.00 0 0 1 17.48 -98.46" stroke="#388E3C" stroke-width="5" data-chapters="14" fill="none" stroke-linecap="butt"/>
-<path id="Malachi" d="M 17.48 -98.46 A 100.00 100.00 0 0 1 19.56 -98.07" stroke="#00695C" stroke-width="5" data-chapters="4" fill="none" stroke-linecap="butt"/>
-<path id="Matthew" d="M 19.56 -98.07 A 100.00 100.00 0 0 1 33.80 -94.11" stroke="#1976D2" stroke-width="5" data-chapters="28" fill="none" stroke-linecap="butt"/>
-<path id="Mark" d="M 33.80 -94.11 A 100.00 100.00 0 0 1 41.63 -90.92" stroke="#842cb9" stroke-width="5" data-chapters="16" fill="none" stroke-linecap="butt"/>
-<path id="Luke" d="M 41.63 -90.92 A 100.00 100.00 0 0 1 52.80 -84.93" stroke="#25959b" stroke-width="5" data-chapters="24" fill="none" stroke-linecap="butt"/>
-<path id="John" d="M 52.80 -84.93 A 100.00 100.00 0 0 1 61.88 -78.56" stroke="#D32F2F" stroke-width="5" data-chapters="21" fill="none" stroke-linecap="butt"/>
-<path id="Acts" d="M 61.88 -78.56 A 100.00 100.00 0 0 1 72.78 -68.58" stroke="#F4511E" stroke-width="5" data-chapters="28" fill="none" stroke-linecap="butt"/>
-<path id="Romans" d="M 72.78 -68.58 A 100.00 100.00 0 0 1 78.31 -62.19" stroke="#388E3C" stroke-width="5" data-chapters="16" fill="none" stroke-linecap="butt"/>
-<path id="1 Corinthians" d="M 78.31 -62.19 A 100.00 100.00 0 0 1 83.28 -55.35" stroke="#00695C" stroke-width="5" data-chapters="16" fill="none" stroke-linecap="butt"/>
-<path id="2 Corinthians" d="M 83.28 -55.35 A 100.00 100.00 0 0 1 86.89 -49.50" stroke="#1976D2" stroke-width="5" data-chapters="13" fill="none" stroke-linecap="butt"/>
-<path id="Galatians" d="M 86.89 -49.50 A 100.00 100.00 0 0 1 88.41 -46.72" stroke="#842cb9" stroke-width="5" data-chapters="6" fill="none" stroke-linecap="butt"/>
-<path id="Ephesians" d="M 88.41 -46.72 A 100.00 100.00 0 0 1 89.85 -43.90" stroke="#25959b" stroke-width="5" data-chapters="6" fill="none" stroke-linecap="butt"/>
-<path id="Philippians" d="M 89.85 -43.90 A 100.00 100.00 0 0 1 90.76 -41.99" stroke="#D32F2F" stroke-width="5" data-chapters="4" fill="none" stroke-linecap="butt"/>
-<path id="Colossians" d="M 90.76 -41.99 A 100.00 100.00 0 0 1 91.62 -40.06" stroke="#F4511E" stroke-width="5" data-chapters="4" fill="none" stroke-linecap="butt"/>
-<path id="1 Thessalonians" d="M 91.62 -40.06 A 100.00 100.00 0 0 1 92.65 -37.63" stroke="#388E3C" stroke-width="5" data-chapters="5" fill="none" stroke-linecap="butt"/>
-<path id="2 Thessalonians" d="M 92.65 -37.63 A 100.00 100.00 0 0 1 93.24 -36.15" stroke="#00695C" stroke-width="5" data-chapters="3" fill="none" stroke-linecap="butt"/>
-<path id="1 Timothy" d="M 93.24 -36.15 A 100.00 100.00 0 0 1 94.34 -33.18" stroke="#1976D2" stroke-width="5" data-chapters="6" fill="none" stroke-linecap="butt"/>
-<path id="2 Timothy" d="M 94.34 -33.18 A 100.00 100.00 0 0 1 95.02 -31.18" stroke="#842cb9" stroke-width="5" data-chapters="4" fill="none" stroke-linecap="butt"/>
-<path id="Titus" d="M 95.02 -31.18 A 100.00 100.00 0 0 1 95.50 -29.67" stroke="#25959b" stroke-width="5" data-chapters="3" fill="none" stroke-linecap="butt"/>
-<path id="Philemon" d="M 95.50 -29.67 A 100.00 100.00 0 0 1 95.65 -29.16" stroke="#D32F2F" stroke-width="5" data-chapters="1" fill="none" stroke-linecap="butt"/>
-<path id="Hebrews" d="M 95.65 -29.16 A 100.00 100.00 0 0 1 97.43 -22.53" stroke="#F4511E" stroke-width="5" data-chapters="13" fill="none" stroke-linecap="butt"/>
-<path id="James" d="M 97.43 -22.53 A 100.00 100.00 0 0 1 97.99 -19.95" stroke="#388E3C" stroke-width="5" data-chapters="5" fill="none" stroke-linecap="butt"/>
-<path id="1 Peter" d="M 97.99 -19.95 A 100.00 100.00 0 0 1 98.48 -17.35" stroke="#00695C" stroke-width="5" data-chapters="5" fill="none" stroke-linecap="butt"/>
-<path id="2 Peter" d="M 98.48 -17.35 A 100.00 100.00 0 0 1 98.75 -15.79" stroke="#1976D2" stroke-width="5" data-chapters="3" fill="none" stroke-linecap="butt"/>
-<path id="1 John" d="M 98.75 -15.79 A 100.00 100.00 0 0 1 99.13 -13.17" stroke="#842cb9" stroke-width="5" data-chapters="5" fill="none" stroke-linecap="butt"/>
-<path id="2 John" d="M 99.13 -13.17 A 100.00 100.00 0 0 1 99.20 -12.65" stroke="#25959b" stroke-width="5" data-chapters="1" fill="none" stroke-linecap="butt"/>
-<path id="3 John" d="M 99.20 -12.65 A 100.00 100.00 0 0 1 99.26 -12.12" stroke="#D32F2F" stroke-width="5" data-chapters="1" fill="none" stroke-linecap="butt"/>
-<path id="Jude" d="M 99.26 -12.12 A 100.00 100.00 0 0 1 99.32 -11.60" stroke="#F4511E" stroke-width="5" data-chapters="1" fill="none" stroke-linecap="butt"/>
-<path id="Revelation" d="M 99.32 -11.60 A 100.00 100.00 0 0 1 100.00 -0.00" stroke="#388E3C" stroke-width="5" data-chapters="22" fill="none" stroke-linecap="butt"/>
+<path id="Genesis" d="M 100.00 0.00 A 100.00 100.00 0 0 1 96.53 26.12" stroke="#D32F2F" stroke-width="10" data-chapters="50" fill="none" stroke-linecap="butt"/>
+<path id="Exodus" d="M 96.53 26.12 A 100.00 100.00 0 0 1 88.90 45.79" stroke="#F4511E" stroke-width="10" data-chapters="40" fill="none" stroke-linecap="butt"/>
+<path id="Leviticus" d="M 88.90 45.79 A 100.00 100.00 0 0 1 81.49 57.96" stroke="#388E3C" stroke-width="10" data-chapters="27" fill="none" stroke-linecap="butt"/>
+<path id="Numbers" d="M 81.49 57.96 A 100.00 100.00 0 0 1 69.06 72.33" stroke="#00695C" stroke-width="10" data-chapters="36" fill="none" stroke-linecap="butt"/>
+<path id="Deuteronomy" d="M 69.06 72.33 A 100.00 100.00 0 0 1 55.02 83.50" stroke="#1976D2" stroke-width="10" data-chapters="34" fill="none" stroke-linecap="butt"/>
+<path id="Joshua" d="M 55.02 83.50 A 100.00 100.00 0 0 1 44.02 89.79" stroke="#842cb9" stroke-width="10" data-chapters="24" fill="none" stroke-linecap="butt"/>
+<path id="Judges" d="M 44.02 89.79 A 100.00 100.00 0 0 1 33.80 94.11" stroke="#25959b" stroke-width="10" data-chapters="21" fill="none" stroke-linecap="butt"/>
+<path id="Ruth" d="M 33.80 94.11 A 100.00 100.00 0 0 1 31.80 94.81" stroke="#D32F2F" stroke-width="10" data-chapters="4" fill="none" stroke-linecap="butt"/>
+<path id="1 Samuel" d="M 31.80 94.81 A 100.00 100.00 0 0 1 15.92 98.73" stroke="#F4511E" stroke-width="10" data-chapters="31" fill="none" stroke-linecap="butt"/>
+<path id="2 Samuel" d="M 15.92 98.73 A 100.00 100.00 0 0 1 3.30 99.95" stroke="#388E3C" stroke-width="10" data-chapters="24" fill="none" stroke-linecap="butt"/>
+<path id="1 Kings" d="M 3.30 99.95 A 100.00 100.00 0 0 1 -8.31 99.65" stroke="#00695C" stroke-width="10" data-chapters="22" fill="none" stroke-linecap="butt"/>
+<path id="2 Kings" d="M -8.31 99.65 A 100.00 100.00 0 0 1 -21.37 97.69" stroke="#1976D2" stroke-width="10" data-chapters="25" fill="none" stroke-linecap="butt"/>
+<path id="1 Chronicles" d="M -21.37 97.69 A 100.00 100.00 0 0 1 -36.03 93.28" stroke="#842cb9" stroke-width="10" data-chapters="29" fill="none" stroke-linecap="butt"/>
+<path id="2 Chronicles" d="M -36.03 93.28 A 100.00 100.00 0 0 1 -53.02 84.79" stroke="#25959b" stroke-width="10" data-chapters="36" fill="none" stroke-linecap="butt"/>
+<path id="Ezra" d="M -53.02 84.79 A 100.00 100.00 0 0 1 -57.42 81.87" stroke="#D32F2F" stroke-width="10" data-chapters="10" fill="none" stroke-linecap="butt"/>
+<path id="Nehemiah" d="M -57.42 81.87 A 100.00 100.00 0 0 1 -62.91 77.73" stroke="#F4511E" stroke-width="10" data-chapters="13" fill="none" stroke-linecap="butt"/>
+<path id="Esther" d="M -62.91 77.73 A 100.00 100.00 0 0 1 -66.93 74.30" stroke="#388E3C" stroke-width="10" data-chapters="10" fill="none" stroke-linecap="butt"/>
+<path id="Job" d="M -66.93 74.30 A 100.00 100.00 0 0 1 -81.64 57.75" stroke="#00695C" stroke-width="10" data-chapters="42" fill="none" stroke-linecap="butt"/>
+<path id="Psalms" d="M -81.64 57.75 A 100.00 100.00 0 0 1 -98.44 -17.61" stroke="#1976D2" stroke-width="10" data-chapters="150" fill="none" stroke-linecap="butt"/>
+<path id="Proverbs" d="M -98.44 -17.61 A 100.00 100.00 0 0 1 -94.25 -33.43" stroke="#842cb9" stroke-width="10" data-chapters="31" fill="none" stroke-linecap="butt"/>
+<path id="Ecclesiastes" d="M -94.25 -33.43 A 100.00 100.00 0 0 1 -91.94 -39.33" stroke="#25959b" stroke-width="10" data-chapters="12" fill="none" stroke-linecap="butt"/>
+<path id="Song of Solomon" d="M -91.94 -39.33 A 100.00 100.00 0 0 1 -90.19 -43.18" stroke="#D32F2F" stroke-width="10" data-chapters="8" fill="none" stroke-linecap="butt"/>
+<path id="Isaiah" d="M -90.19 -43.18 A 100.00 100.00 0 0 1 -70.01 -71.41" stroke="#F4511E" stroke-width="10" data-chapters="66" fill="none" stroke-linecap="butt"/>
+<path id="Jeremiah" d="M -70.01 -71.41 A 100.00 100.00 0 0 1 -48.00 -87.72" stroke="#388E3C" stroke-width="10" data-chapters="52" fill="none" stroke-linecap="butt"/>
+<path id="Lamentations" d="M -48.00 -87.72 A 100.00 100.00 0 0 1 -45.67 -88.96" stroke="#00695C" stroke-width="10" data-chapters="5" fill="none" stroke-linecap="butt"/>
+<path id="Ezekiel" d="M -45.67 -88.96 A 100.00 100.00 0 0 1 -21.88 -97.58" stroke="#1976D2" stroke-width="10" data-chapters="48" fill="none" stroke-linecap="butt"/>
+<path id="Daniel" d="M -21.88 -97.58 A 100.00 100.00 0 0 1 -15.66 -98.77" stroke="#842cb9" stroke-width="10" data-chapters="12" fill="none" stroke-linecap="butt"/>
+<path id="Hosea" d="M -15.66 -98.77 A 100.00 100.00 0 0 1 -8.31 -99.65" stroke="#25959b" stroke-width="10" data-chapters="14" fill="none" stroke-linecap="butt"/>
+<path id="Joel" d="M -8.31 -99.65 A 100.00 100.00 0 0 1 -6.73 -99.77" stroke="#D32F2F" stroke-width="10" data-chapters="3" fill="none" stroke-linecap="butt"/>
+<path id="Amos" d="M -6.73 -99.77 A 100.00 100.00 0 0 1 -1.98 -99.98" stroke="#F4511E" stroke-width="10" data-chapters="9" fill="none" stroke-linecap="butt"/>
+<path id="Obadiah" d="M -1.98 -99.98 A 100.00 100.00 0 0 1 -1.45 -99.99" stroke="#388E3C" stroke-width="10" data-chapters="1" fill="none" stroke-linecap="butt"/>
+<path id="Jonah" d="M -1.45 -99.99 A 100.00 100.00 0 0 1 0.66 -100.00" stroke="#00695C" stroke-width="10" data-chapters="4" fill="none" stroke-linecap="butt"/>
+<path id="Micah" d="M 0.66 -100.00 A 100.00 100.00 0 0 1 4.36 -99.90" stroke="#1976D2" stroke-width="10" data-chapters="7" fill="none" stroke-linecap="butt"/>
+<path id="Nahum" d="M 4.36 -99.90 A 100.00 100.00 0 0 1 5.94 -99.82" stroke="#842cb9" stroke-width="10" data-chapters="3" fill="none" stroke-linecap="butt"/>
+<path id="Habakkuk" d="M 5.94 -99.82 A 100.00 100.00 0 0 1 7.52 -99.72" stroke="#25959b" stroke-width="10" data-chapters="3" fill="none" stroke-linecap="butt"/>
+<path id="Zephaniah" d="M 7.52 -99.72 A 100.00 100.00 0 0 1 9.10 -99.58" stroke="#D32F2F" stroke-width="10" data-chapters="3" fill="none" stroke-linecap="butt"/>
+<path id="Haggai" d="M 9.10 -99.58 A 100.00 100.00 0 0 1 10.15 -99.48" stroke="#F4511E" stroke-width="10" data-chapters="2" fill="none" stroke-linecap="butt"/>
+<path id="Zechariah" d="M 10.15 -99.48 A 100.00 100.00 0 0 1 17.48 -98.46" stroke="#388E3C" stroke-width="10" data-chapters="14" fill="none" stroke-linecap="butt"/>
+<path id="Malachi" d="M 17.48 -98.46 A 100.00 100.00 0 0 1 19.56 -98.07" stroke="#00695C" stroke-width="10" data-chapters="4" fill="none" stroke-linecap="butt"/>
+<path id="Matthew" d="M 19.56 -98.07 A 100.00 100.00 0 0 1 33.80 -94.11" stroke="#1976D2" stroke-width="10" data-chapters="28" fill="none" stroke-linecap="butt"/>
+<path id="Mark" d="M 33.80 -94.11 A 100.00 100.00 0 0 1 41.63 -90.92" stroke="#842cb9" stroke-width="10" data-chapters="16" fill="none" stroke-linecap="butt"/>
+<path id="Luke" d="M 41.63 -90.92 A 100.00 100.00 0 0 1 52.80 -84.93" stroke="#25959b" stroke-width="10" data-chapters="24" fill="none" stroke-linecap="butt"/>
+<path id="John" d="M 52.80 -84.93 A 100.00 100.00 0 0 1 61.88 -78.56" stroke="#D32F2F" stroke-width="10" data-chapters="21" fill="none" stroke-linecap="butt"/>
+<path id="Acts" d="M 61.88 -78.56 A 100.00 100.00 0 0 1 72.78 -68.58" stroke="#F4511E" stroke-width="10" data-chapters="28" fill="none" stroke-linecap="butt"/>
+<path id="Romans" d="M 72.78 -68.58 A 100.00 100.00 0 0 1 78.31 -62.19" stroke="#388E3C" stroke-width="10" data-chapters="16" fill="none" stroke-linecap="butt"/>
+<path id="1 Corinthians" d="M 78.31 -62.19 A 100.00 100.00 0 0 1 83.28 -55.35" stroke="#00695C" stroke-width="10" data-chapters="16" fill="none" stroke-linecap="butt"/>
+<path id="2 Corinthians" d="M 83.28 -55.35 A 100.00 100.00 0 0 1 86.89 -49.50" stroke="#1976D2" stroke-width="10" data-chapters="13" fill="none" stroke-linecap="butt"/>
+<path id="Galatians" d="M 86.89 -49.50 A 100.00 100.00 0 0 1 88.41 -46.72" stroke="#842cb9" stroke-width="10" data-chapters="6" fill="none" stroke-linecap="butt"/>
+<path id="Ephesians" d="M 88.41 -46.72 A 100.00 100.00 0 0 1 89.85 -43.90" stroke="#25959b" stroke-width="10" data-chapters="6" fill="none" stroke-linecap="butt"/>
+<path id="Philippians" d="M 89.85 -43.90 A 100.00 100.00 0 0 1 90.76 -41.99" stroke="#D32F2F" stroke-width="10" data-chapters="4" fill="none" stroke-linecap="butt"/>
+<path id="Colossians" d="M 90.76 -41.99 A 100.00 100.00 0 0 1 91.62 -40.06" stroke="#F4511E" stroke-width="10" data-chapters="4" fill="none" stroke-linecap="butt"/>
+<path id="1 Thessalonians" d="M 91.62 -40.06 A 100.00 100.00 0 0 1 92.65 -37.63" stroke="#388E3C" stroke-width="10" data-chapters="5" fill="none" stroke-linecap="butt"/>
+<path id="2 Thessalonians" d="M 92.65 -37.63 A 100.00 100.00 0 0 1 93.24 -36.15" stroke="#00695C" stroke-width="10" data-chapters="3" fill="none" stroke-linecap="butt"/>
+<path id="1 Timothy" d="M 93.24 -36.15 A 100.00 100.00 0 0 1 94.34 -33.18" stroke="#1976D2" stroke-width="10" data-chapters="6" fill="none" stroke-linecap="butt"/>
+<path id="2 Timothy" d="M 94.34 -33.18 A 100.00 100.00 0 0 1 95.02 -31.18" stroke="#842cb9" stroke-width="10" data-chapters="4" fill="none" stroke-linecap="butt"/>
+<path id="Titus" d="M 95.02 -31.18 A 100.00 100.00 0 0 1 95.50 -29.67" stroke="#25959b" stroke-width="10" data-chapters="3" fill="none" stroke-linecap="butt"/>
+<path id="Philemon" d="M 95.50 -29.67 A 100.00 100.00 0 0 1 95.65 -29.16" stroke="#D32F2F" stroke-width="10" data-chapters="1" fill="none" stroke-linecap="butt"/>
+<path id="Hebrews" d="M 95.65 -29.16 A 100.00 100.00 0 0 1 97.43 -22.53" stroke="#F4511E" stroke-width="10" data-chapters="13" fill="none" stroke-linecap="butt"/>
+<path id="James" d="M 97.43 -22.53 A 100.00 100.00 0 0 1 97.99 -19.95" stroke="#388E3C" stroke-width="10" data-chapters="5" fill="none" stroke-linecap="butt"/>
+<path id="1 Peter" d="M 97.99 -19.95 A 100.00 100.00 0 0 1 98.48 -17.35" stroke="#00695C" stroke-width="10" data-chapters="5" fill="none" stroke-linecap="butt"/>
+<path id="2 Peter" d="M 98.48 -17.35 A 100.00 100.00 0 0 1 98.75 -15.79" stroke="#1976D2" stroke-width="10" data-chapters="3" fill="none" stroke-linecap="butt"/>
+<path id="1 John" d="M 98.75 -15.79 A 100.00 100.00 0 0 1 99.13 -13.17" stroke="#842cb9" stroke-width="10" data-chapters="5" fill="none" stroke-linecap="butt"/>
+<path id="2 John" d="M 99.13 -13.17 A 100.00 100.00 0 0 1 99.20 -12.65" stroke="#25959b" stroke-width="10" data-chapters="1" fill="none" stroke-linecap="butt"/>
+<path id="3 John" d="M 99.20 -12.65 A 100.00 100.00 0 0 1 99.26 -12.12" stroke="#D32F2F" stroke-width="10" data-chapters="1" fill="none" stroke-linecap="butt"/>
+<path id="Jude" d="M 99.26 -12.12 A 100.00 100.00 0 0 1 99.32 -11.60" stroke="#F4511E" stroke-width="10" data-chapters="1" fill="none" stroke-linecap="butt"/>
+<path id="Revelation" d="M 99.32 -11.60 A 100.00 100.00 0 0 1 100.00 -0.00" stroke="#388E3C" stroke-width="10" data-chapters="22" fill="none" stroke-linecap="butt"/>
 
 </svg>

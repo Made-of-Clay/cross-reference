@@ -69,7 +69,7 @@ func generateSVGArcs(books []Book, radius float64) string {
 			largeArcFlag = 1
 		}
 
-		svgPaths += fmt.Sprintf("<path id=\"%s\" d=\"M %.2f %.2f A %.2f %.2f 0 %d 1 %.2f %.2f\" stroke=\"%s\" stroke-width=\"5\" data-chapters=\"%d\" fill=\"none\" stroke-linecap=\"butt\"/>",
+		svgPaths += fmt.Sprintf("<path id=\"%s\" d=\"M %.2f %.2f A %.2f %.2f 0 %d 1 %.2f %.2f\" stroke=\"%s\" stroke-width=\"10\" data-chapters=\"%d\" fill=\"none\" stroke-linecap=\"butt\"/>",
 			book.Name, // id
 			x1,
 			y1,

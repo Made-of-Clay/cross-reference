@@ -45,6 +45,7 @@
         function updateFocus(event) {
             if (event.target.tagName.toLowerCase() !== 'path') return;
     
+            console.log('event.type', event.type);
             /** @type {HTMLPathElement} */
             const path = event.target;
             main.setAttribute('data-book', path.id);
@@ -52,6 +53,8 @@
         }
         main.addEventListener('mouseover', updateFocus);
         main.addEventListener('touchstart', updateFocus);
+        main.addEventListener('click', updateFocus);
+        main.addEventListener('touchend', updateFocus);
 
         fetch('./bible_arcs.svg')
             .then(r => r.text())

@@ -9,6 +9,9 @@
         :root {
             font: 16px Roboto, Helvetica, Arial, sans-serif;
         }
+        html, body {
+            background-color: #212121;
+        }
         main {
             position: relative;
             --maxWidth: 500px;
@@ -53,8 +56,6 @@
         }
         main.addEventListener('mouseover', updateFocus);
         main.addEventListener('touchstart', updateFocus);
-        main.addEventListener('click', updateFocus);
-        main.addEventListener('touchend', updateFocus);
 
         fetch('./bible_arcs.svg')
             .then(r => r.text())

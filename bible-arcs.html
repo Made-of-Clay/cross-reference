@@ -17,7 +17,7 @@
             --maxWidth: 500px;
         }
         main[data-book][data-chapters]::before {
-            content: "Book: " attr(data-book) "\00000a Chapters: " attr(data-chapters);
+            content: attr(data-book) "\00000a" attr(data-chapters);
             color: var(--color, white);
             display: flex;
             position: absolute;
@@ -65,5 +65,8 @@
 </head>
 <body>
     <main></main>
+    <h1>Bible Content Visualizer</h1>
+    <p>Each color arc represents a book of the Bible relative to the size (in chapters) of each book.</p>
+    <p><b>Hover, click, or tap</b> an arc to see the book title &amp; chapter count.</p>
 </body>
 </html>

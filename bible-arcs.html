@@ -11,9 +11,10 @@
         }
         main {
             position: relative;
+            --maxWidth: 500px;
         }
         main[data-book][data-chapters]::before {
-            content: attr(data-book) " - " attr(data-chapters);
+            content: "Book: " attr(data-book) "\00000a Chapters: " attr(data-chapters);
             color: white;
             display: flex;
             position: absolute;
@@ -21,14 +22,20 @@
             left: 0;
             height: 100%;
             width: 100%;
+            max-width: var(--maxWidth);
             align-items: center;
             justify-content: center;
             font-size: 2vh;
+            text-align: center;
+            white-space: pre;
             z-index: 1;
         }
         svg {
             position: relative;
             z-index: 2;
+
+            max-width: var(--maxWidth);
+            width: 100%;
         }
     </style>
     <script type="module">

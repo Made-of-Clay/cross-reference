@@ -36,13 +36,13 @@ func idxToHSL(idx int) string {
 
 func idxToHex(idx int) string {
 	colors := []string{
-		"#D32F2F", // Deep Red
-		"#F4511E", // Burnt Orange
-		"#388E3C", // Forest Green
-		"#00695C", // Steel Teal
-		"#1976D2", // Navy Blue
-		"#6A1B9A", // Slate Purple
-		"#4E342E", // Charcoal Brown
+		"#D32F2F",
+		"#F4511E",
+		"#388E3C",
+		"#00695C",
+		"#1976D2",
+		"#842cb9",
+		"#53cdd3",
 	}
 	return colors[idx%len(colors)]
 }
